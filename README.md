@@ -14,5 +14,5 @@ Class project.
 
 
 ### Link to the project  
-Task description, visualizations and conclusion could be found in the [Power BI report](https://github.com/realseich/GameDev-business-analysis---Power-BI/blob/main/Module%2025%2C%20GameDev%2C%20segmentation%2C%20cohorts%2C%20ed6c.pdf).  
+Task description, visualizations and conclusion could be found in the [Power BI report](https://github.com/realseich/GameDev-business-analysis-1---Power-BI/blob/main/GD1_Module_22_ed5b.pdf).  
 The document is written in Russian, visualization charts legend is parthly in English. 
